@@ -9,6 +9,7 @@
 	"debug.configuration.selection.canceled": "Výběr konfigurace ladění byl zrušen.",
 	"cl.exe.not.available": "Sestavení a ladění {0} je k dispozici jen v případě, že se nástroj VS Code spustil z nástroje Developer Command Prompt pro VS.",
 	"miDebuggerPath.not.available": "miDebuggerPath neexistuje: {0}. Byl nainstalován ladicí program?",
+	"pre.Launch.Task": "preLaunchTask: {0}",
 	"debugger.deprecated.config": "Klíč {0} je zastaralý. Použijte prosím místo něj {1}.",
 	"debugger.not.available": "Ladicí program typu {0} je k dispozici jen ve Windows. Na aktuální platformě operačního systému použijte typ {1}.",
 	"lldb.framework.install.xcode": "Další informace",
@@ -26,5 +27,9 @@
 	"unexpected.os": "Neočekávaný typ operačního systému",
 	"path.to.pipe.program": "úplná cesta k programu kanálu, třeba {0}",
 	"enable.pretty.printing": "Povolit přehledný výpis pro {0}",
-	"enable.intel.disassembly.flavor": "Nastavte variantu zpětného překladu na {0}."
+	"enable.intel.disassembly.flavor": "Nastavte variantu zpětného překladu na {0}.",
+	"build.and.debug.active.file": "Sestavit a ladit aktivní soubor",
+	"cannot.build.non.cpp": "Sestavení a ladění není možné, protože aktivní soubor není zdrojový soubor jazyka C ani C++.",
+	"no.compiler.found": "Nenašel se žádný kompilátor.",
+	"select.debug.configuration": "Vyberte konfiguraci ladění"
 }

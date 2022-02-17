@@ -52,6 +52,8 @@
 	"forced.include": "強制インクルード",
 	"forced.include.description": "ソース ファイルの他の文字が処理される前に含める必要があるファイルの一覧です。ファイルは、リストされている順序で含められます。",
 	"one.file.per.line": "1 行につき 1 つのファイルです。",
+	"dot.config": "Dot Config",
+	"dot.config.description": "A path to a .config file created by Kconfig system. Kconfig system generates a file with all the defines to build a project. Examples of projects that use Kconfig system are the Linux Kernel and NuttX RTOS.",
 	"compile.commands": "コンパイル コマンド",
 	"compile.commands.description": "ワークスペースの {0} ファイルへの完全なパスです。このファイルで検出されたインクルード パスおよび定義は、{1} および {2} の設定に設定されている値の代わりに使用されます。コンパイル コマンド データベースに、エディターで開いたファイルに対応する翻訳単位のエントリが含まれていない場合は、警告メッセージが表示され、代わりに拡張機能では {3} および {4} の設定が使用されます。",
 	"merge.configurations": "構成のマージ",

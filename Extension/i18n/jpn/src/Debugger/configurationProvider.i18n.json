@@ -9,6 +9,7 @@
 	"debug.configuration.selection.canceled": "デバッグ構成の選択が取り消されました",
 	"cl.exe.not.available": "{0} のビルドとデバッグを使用できるのは、VS 用開発者コマンド プロンプトから VS Code を実行する場合のみです。",
 	"miDebuggerPath.not.available": "miDebuggerPath が存在しません: {0}。デバッガーはインストールされていますか?",
+	"pre.Launch.Task": "preLaunchTask: {0}",
 	"debugger.deprecated.config": "キー '{0}' は非推奨です。代わりに '{1}' をお使いください。",
 	"debugger.not.available": "タイプ '{0}' のデバッガーは、Windows でのみ使用できます。現在の OS プラットフォームでは、タイプ '{1}' を使用してください。",
 	"lldb.framework.install.xcode": "詳細",
@@ -26,5 +27,9 @@
 	"unexpected.os": "予期しない OS の種類",
 	"path.to.pipe.program": "{0} などのパイプ プログラムへの完全なパス",
 	"enable.pretty.printing": "{0} の再フォーマットを有効にする",
-	"enable.intel.disassembly.flavor": "逆アセンブリ フレーバーを {0} に設定"
+	"enable.intel.disassembly.flavor": "逆アセンブリ フレーバーを {0} に設定",
+	"build.and.debug.active.file": "アクティブ ファイルのビルドとデバッグ",
+	"cannot.build.non.cpp": "アクティブ ファイルが C または C++ ソース ファイルではないため、ビルドおよびデバッグできません。",
+	"no.compiler.found": "コンパイラが見つかりませんでした",
+	"select.debug.configuration": "デバッグ構成を選択する"
 }

@@ -9,6 +9,7 @@
 	"debug.configuration.selection.canceled": "Выбор конфигурации отладки отменен",
 	"cl.exe.not.available": "Сборку и отладку {0} можно использовать только при запуске VS Code из Командной строки разработчика для VS.",
 	"miDebuggerPath.not.available": "Путь miDebuggerPath не существует: {0}. Установлен ли отладчик?",
+	"pre.Launch.Task": "ЗадачаПредварительногоЗапуска: {0}",
 	"debugger.deprecated.config": "Ключ \"{0}\" устарел. Используйте \"{1}\".",
 	"debugger.not.available": "Отладчик типа \"{0}\" доступен только в Windows. Используйте тип \"{1}\" на текущей платформе ОС.",
 	"lldb.framework.install.xcode": "Дополнительные сведения",
@@ -26,5 +27,9 @@
 	"unexpected.os": "Непредвиденный тип ОС",
 	"path.to.pipe.program": "Полный путь к программе канала, например: {0}",
 	"enable.pretty.printing": "Включить автоматическое форматирование для {0}",
-	"enable.intel.disassembly.flavor": "Задать для варианта приложения дизассемблирования значение {0}"
+	"enable.intel.disassembly.flavor": "Задать для варианта приложения дизассемблирования значение {0}",
+	"build.and.debug.active.file": "Сборка и отладка активного файла",
+	"cannot.build.non.cpp": "Не удается выполнить сборку и отладку, так как активный файл не является исходным файлом C или C++.",
+	"no.compiler.found": "Компилятор не найден",
+	"select.debug.configuration": "Выбрать конфигурацию отладки"
 }

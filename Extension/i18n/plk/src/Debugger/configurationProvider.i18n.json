@@ -9,6 +9,7 @@
 	"debug.configuration.selection.canceled": "Anulowano wybór konfiguracji debugowania",
 	"cl.exe.not.available": "{0} — funkcji kompilacji i debugowania można używać tylko wtedy, gdy program VS Code został uruchomiony z wiersza polecenia dla deweloperów w programie VS.",
 	"miDebuggerPath.not.available": "Element miDebuggerPath nie istnieje: {0}. Czy zainstalowano debuger?",
+	"pre.Launch.Task": "preLaunchTask: {0}",
 	"debugger.deprecated.config": "Klucz „{0}” jest przestarzały. Zamiast niego użyj klucza „{1}”.",
 	"debugger.not.available": "Debuger typu: „{0}” jest dostępny tylko w systemie Windows. Użyj typu: „{1}” na bieżącej platformie systemu operacyjnego.",
 	"lldb.framework.install.xcode": "Więcej informacji",
@@ -26,5 +27,9 @@
 	"unexpected.os": "Nieoczekiwany typ systemu operacyjnego",
 	"path.to.pipe.program": "pełna ścieżka do programu potoku, takiego jak {0}",
 	"enable.pretty.printing": "Włącz formatowanie kodu dla {0}",
-	"enable.intel.disassembly.flavor": "Ustaw wariant dezasemblacji na {0}"
+	"enable.intel.disassembly.flavor": "Ustaw wariant dezasemblacji na {0}",
+	"build.and.debug.active.file": "Kompiluj i debuguj aktywny plik",
+	"cannot.build.non.cpp": "Nie można skompilować i debugować, ponieważ aktywny plik nie jest plikiem źródłowym języka C lub C++.",
+	"no.compiler.found": "Nie znaleziono kompilatora",
+	"select.debug.configuration": "Wybierz konfigurację debugowania"
 }

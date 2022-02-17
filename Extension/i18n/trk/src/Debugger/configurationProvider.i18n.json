@@ -9,6 +9,7 @@
 	"debug.configuration.selection.canceled": "Hata ayıklama yapılandırma seçimi iptal edildi",
 	"cl.exe.not.available": "{0} derlemesi ve hata ayıklama yalnızca VS Code, VS için Geliştirici Komut İstemi'nden çalıştırıldığında kullanılabilir.",
 	"miDebuggerPath.not.available": "miDebuggerPath yok: {0}. Hata ayıklayıcısı yüklendi mi?",
+	"pre.Launch.Task": "preLaunchTask: {0}",
 	"debugger.deprecated.config": "{0}' anahtarı kullanım dışı. Lütfen bunun yerine '{1}' kullanın.",
 	"debugger.not.available": "'{0}' türündeki hata ayıklayıcısı yalnızca Windows'da kullanılabilir. Geçerli işletim sistemi platformunda '{1}' türünü kullanın.",
 	"lldb.framework.install.xcode": "Daha Fazla Bilgi",
@@ -26,5 +27,9 @@
 	"unexpected.os": "Beklenmeyen işletim sistemi türü",
 	"path.to.pipe.program": "Kanal programının tam yolu, örneğin {0}",
 	"enable.pretty.printing": "{0} için düzgün yazdırmayı etkinleştir",
-	"enable.intel.disassembly.flavor": "Ayrıştırılmış Kod Varyantını {0} olarak ayarla"
+	"enable.intel.disassembly.flavor": "Ayrıştırılmış Kod Varyantını {0} olarak ayarla",
+	"build.and.debug.active.file": "Etkin dosyayı derle ve dosyada hata ayıkla",
+	"cannot.build.non.cpp": "Etkin dosya bir C ya da C++ kaynak dosyası olmadığından derleme veya hata ayıklama yapılamıyor.",
+	"no.compiler.found": "Derleyici bulunamadı",
+	"select.debug.configuration": "Bir hata ayıklama yapılandırması seçin"
 }
